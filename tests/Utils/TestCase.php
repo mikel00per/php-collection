@@ -1,6 +1,6 @@
 <?php
 
-namespace Tests\Collections\Utils;
+namespace Tests\Shared\Domain\Collections\Utils;
 
 use PHPUnit\Framework\TestCase as UnitTestCase;
 
