@@ -1,6 +1,6 @@
-# PHP Library Template
+# PHP Collections
 
-Template to make libraries in PHP
+Library for managing object collections.
 
 ## Make commands
 
